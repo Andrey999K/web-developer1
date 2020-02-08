@@ -1,0 +1,40 @@
+.banner {
+  font-family: sans-serif;
+  width: 100%;
+  max-width: 1920px;
+  height: 780px;
+  margin: 0 auto;
+  padding: 186px 391px 80px;
+  background: url("./../images/banner-background-girl.png") no-repeat calc( 100vw - 949px - 11px) 18px, url("./../images/banner-background.png") no-repeat center; }
+  .banner__title {
+    font-size: 60px;
+    font-weight: bold;
+    color: #7f70b1;
+    margin-bottom: 30px; }
+  .banner__city {
+    max-width: 409px;
+    padding: 17px 20px;
+    font-size: 36px;
+    color: #ffffff;
+    background: #7f70b1;
+    text-align: center;
+    margin-bottom: 94px; }
+  .banner__description {
+    background: url("./../images/tooth-icon.png") no-repeat 7px;
+    height: 60px;
+    padding: 6px 0 0 calc( 52px + 39px + 7px);
+    font-size: 22px;
+    margin-bottom: 118px; }
+  .banner__button {
+    width: 360px;
+    padding: 25px 0px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    border: solid 2px #01c4e0;
+    color: #01c4e0;
+    background: transparent; }
+  .banner__appointment {
+    color: #ffffff;
+    background: #01c4e0;
+    margin-right: 26px; }
